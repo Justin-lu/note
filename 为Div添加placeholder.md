@@ -1,4 +1,4 @@
-# 为Div添加placeholder
+# How to add a placeholder to DIV
 
 今天开发的时候遇到这样一个问题，需要在edit-in-place文本编辑款为空得时候，显示placeholder，通常情况下，我们只需要在input框添加`placeholder="xxx"` 即可
 
